@@ -1,0 +1,28 @@
+body{
+    font-weight: 400;
+    font-family: Poppins, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+}
+
+header{
+    font-weight: 600;
+}
+
+h1{
+    font-size: 60px;    
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+section p{
+    margin-bottom: 40px;
+}
+
+
